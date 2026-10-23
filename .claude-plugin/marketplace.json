@@ -1,0 +1,15 @@
+{
+  "name": "d365fo-devkit",
+  "description": "Claude Code tools for Dynamics 365 Finance & Operations (X++) developers.",
+  "owner": {
+    "name": "wboniecki"
+  },
+  "plugins": [
+    {
+      "name": "d365fo-devkit",
+      "source": "./",
+      "description": "Developer toolkit for Dynamics 365 Finance & Operations (X++).",
+      "version": "0.0.1"
+    }
+  ]
+}

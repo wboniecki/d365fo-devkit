@@ -1,0 +1,13 @@
+{
+  "name": "d365fo-devkit",
+  "version": "0.0.1",
+  "description": "Developer toolkit for Dynamics 365 Finance & Operations (X++): conventions, AOT metadata index and workflow rules for Claude Code.",
+  "author": {
+    "name": "wboniecki",
+    "url": "https://github.com/wboniecki"
+  },
+  "homepage": "https://github.com/wboniecki/d365fo-devkit",
+  "repository": "https://github.com/wboniecki/d365fo-devkit",
+  "license": "MIT",
+  "keywords": ["d365", "dynamics-365", "finance-and-operations", "x++", "xpp"]
+}
